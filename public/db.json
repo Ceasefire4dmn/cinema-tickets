@@ -1,0 +1,37 @@
+{
+  "movies": [
+    { "id": 1, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 2, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 3, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 4, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 5, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 6, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 7, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 8, "title": "Оппенгеймер", "genre": "Драма", "duration": 180, "rating": 8.6, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuASSwzLKKIc8BJnPh3Ljq9EOc59wb-773A2DBcLfckBEYLVjV4ARXPDYh7ZspZyOpCmZ9d9aPPkt9irGBXnDp111PCOcSPpfAJJ4WEo1Qss_gqLuPe86TfEaI4QgGrjuCKa2LhJ082DewA8JEQhPXfqS8Gy0nBng1oAP03R3XyvtEdiGZU9jBUdEa6SZ67aL6VbAk3PoXx8DzzJV2r8GpUA7ljFKJdqDAce8c27-_eZ-bYiIYHzwZrJMbnyz4gJ4g0xX5W-K6qSgiRJ", "synopsis": "История создания атомной бомбы..." }
+  ],
+  "halls": [
+    { "id": 1, "name": "Зал 1", "type": "IMAX", "capacity": 120 },
+    { "id": 2, "name": "Зал 2", "type": "Standard", "capacity": 80 }
+  ],
+  "seats": [
+    { "id": 1, "hall_id": 1, "row": 1, "number": 1, "category": "Standard" },
+    { "id": 2, "hall_id": 1, "row": 1, "number": 2, "category": "Standard" },
+    { "id": 3, "hall_id": 1, "row": 1, "number": 3, "category": "VIP" },
+    { "id": 4, "hall_id": 2, "row": 1, "number": 1, "category": "Standard" }
+  ],
+"showtimes": [
+    { "id": 101, "movie_id": 1, "hall_id": 1, "start_time": "2026-03-10T14:00:00", "base_price": 500 },
+    { "id": 102, "movie_id": 1, "hall_id": 1, "start_time": "2026-03-10T17:30:00", "base_price": 600 },
+    { "id": 103, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T18:00:00", "base_price": 400 },
+    { "id": 104, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T21:00:00", "base_price": 450 },
+    { "id": 105, "movie_id": 3, "hall_id": 3, "start_time": "2026-03-11T12:00:00", "base_price": 350 },
+    { "id": 106, "movie_id": 4, "hall_id": 2, "start_time": "2026-03-11T15:00:00", "base_price": 400 },
+    { "id": 107, "movie_id": 5, "hall_id": 1, "start_time": "2026-03-11T19:00:00", "base_price": 550 },
+    { "id": 108, "movie_id": 6, "hall_id": 3, "start_time": "2026-03-12T10:30:00", "base_price": 300 },
+    { "id": 109, "movie_id": 7, "hall_id": 1, "start_time": "2026-03-12T22:00:00", "base_price": 500 },
+    { "id": 110, "movie_id": 8, "hall_id": 2, "start_time": "2026-03-12T13:45:00", "base_price": 400 }
+  ],
+  "bookings": [
+    { "id": 1001, "showtime_id": 101, "seat_id": 1, "status": "sold" }
+  ]
+}
