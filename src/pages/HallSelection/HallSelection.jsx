@@ -136,7 +136,10 @@ export default function HallSelection() {
                         </div>
                         <button
                             disabled={selectedSeats.length === 0}
-                            onClick={() => navigate(`/booking-confirm/${showtimeId}`, { state: { selectedSeats } })}
+                            onClick={() => navigate(`/checkout/${showtimeId}`, {
+                                state: { selectedSeats }
+                            })}
+                            // onClick={() => navigate(`/booking-confirm/${showtimeId}`, { state: { selectedSeats } })}
                             className="bg-red-600 px-10 py-4 rounded-xl font-bold hover:bg-red-700 disabled:opacity-20 transition-all"
                         >
                             Оплата
