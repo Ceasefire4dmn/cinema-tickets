@@ -6,6 +6,7 @@ import MovieDetails from './pages/MovieDetails/MovieDetails';
 import HallDetails from './pages/HallDetails/HallDetails.jsx'
 import HallView from './pages/HallView/HallView.jsx';
 import HallSelection from './pages/HallSelection/HallSelection.jsx';
+import Checkout from './pages/Checkout/Checkout.jsx';
 // import Payment from './pages/Payment';
 // import Ticket from './pages/Ticket';
 // import Admin from './pages/Admin';
@@ -26,6 +27,7 @@ function App() {
             <Route path='hall' element={<HallDetails />} />
             <Route path="/hall-info/:hallId" element={<HallView />} />
             <Route path="/hall-selection/:showtimeId" element={<HallSelection />} />
+            <Route path="/checkout/:showtimeId" element={<Checkout />} />
             {/* 
             <Route path="hall" element={<Hall />} />
             <Route path="payment" element={<Payment />} />
