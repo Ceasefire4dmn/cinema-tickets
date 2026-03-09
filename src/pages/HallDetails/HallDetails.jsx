@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { useDatabase } from '../../contexts/DatabaseContext';
 import { Monitor, Volume2, Users, ChevronRight } from 'lucide-react';

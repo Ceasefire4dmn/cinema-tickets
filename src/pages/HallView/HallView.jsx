@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useDatabase } from '../../contexts/DatabaseContext';
 import { Info, Maximize, ShieldCheck, Star, Heart } from 'lucide-react';

@@ -1,7 +1,6 @@
-import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useDatabase } from '../../contexts/DatabaseContext';
-import { Clock, MapPin, Ticket } from 'lucide-react';
+import { MapPin, Ticket } from 'lucide-react';
 
 const MovieDetails = () => {
     const { id } = useParams();
