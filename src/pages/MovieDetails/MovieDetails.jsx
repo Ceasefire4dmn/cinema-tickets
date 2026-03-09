@@ -38,7 +38,7 @@ const MovieDetails = () => {
                                 return (
                                     <Link
                                         key={session.id}
-                                        to={`/booking/${session.id}`}
+                                        to={`/hall-selection/${session.id}`}
                                         className="bg-[#1A1A1A] p-6 rounded-2xl border border-gray-800 hover:border-red-600 transition-all flex justify-between items-center group"
                                     >
                                         <div className="flex gap-8 items-center">

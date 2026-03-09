@@ -19,15 +19,14 @@ const HallView = () => {
                 ← Назад
             </button>
 
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-                {/* Левая колонка: Визуализация */}
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12"> 
                 <div className="space-y-6">
                     <div className="aspect-video bg-[#1A1A1A] rounded-3xl overflow-hidden border border-gray-800 flex items-center justify-center relative">
                         <img
-                            src={`/images/halls/hall-${hall.id}.jpg`}
+                            src={`https://lh3.googleusercontent.com/aida-public/AB6AXuCsIEqvoUOGTDGqYyzcBnt3CZUUpgdPuDRk8FYdf-sfqopbRprzt24nfbAIvcEMX9RGTAeZFJ5a7o-mYs7rqKfiezmmDZETH7MDQpAMw4oVRC1CGaiEw94mVzYO_h6T1clMpe-fPpz7gSLoRGM9UW3ykW7Lzf7fBE_jACbr4B-95mUs0iqGOYTnP_4usFOH9MP2_t8o0aRNOTnXM2mLTo1JaPOxqtfFEz5refvV8wf6KpJgrtMR_EzxnQiNCUx73CEFH14eGP4_Qym3`}
+                            crossOrigin="anonymous"
                             alt={hall.name}
                             className="w-full h-full object-cover opacity-60"
-                            onError={(e) => e.target.src = 'https://images.unsplash.com/photo-1517604401157-538e99884321?auto=format&fit=crop&w=1200'}
                         />
                         <div className="absolute bottom-6 left-6">
                             <h1 className="text-4xl font-black uppercase italic">{hall.name}</h1>
@@ -47,8 +46,7 @@ const HallView = () => {
                         </div>
                     </div>
                 </div>
-
-                {/* Правая колонка: Характеристики */}
+ 
                 <div className="bg-[#1A1A1A] p-10 rounded-3xl border border-gray-800 h-fit">
                     <h3 className="text-2xl font-bold mb-6 flex items-center gap-2">
                         <Info className="text-red-600" /> Технические данные

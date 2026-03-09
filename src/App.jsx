@@ -5,7 +5,7 @@ import Afisha from './pages/Afisha/Afisha.jsx';
 import MovieDetails from './pages/MovieDetails/MovieDetails';
 import HallDetails from './pages/HallDetails/HallDetails.jsx'
 import HallView from './pages/HallView/HallView.jsx';
-// import Hall from './pages/Hall';
+import HallSelection from './pages/HallSelection/HallSelection.jsx';
 // import Payment from './pages/Payment';
 // import Ticket from './pages/Ticket';
 // import Admin from './pages/Admin';
@@ -20,12 +20,12 @@ function App() {
       <DatabaseProvider>
         <Routes>
           <Route path="/" element={<Layout />}>
-            {/* Афиша = главная страница */}
             <Route index element={<Afisha />} />
             <Route path='afisha' element={<Afisha />} />
             <Route path="/movie/:id" element={<MovieDetails />} />
             <Route path='hall' element={<HallDetails />} />
             <Route path="/hall-info/:hallId" element={<HallView />} />
+            <Route path="/hall-selection/:showtimeId" element={<HallSelection />} />
             {/* 
             <Route path="hall" element={<Hall />} />
             <Route path="payment" element={<Payment />} />
