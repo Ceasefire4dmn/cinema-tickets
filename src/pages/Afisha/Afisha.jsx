@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Play, Clock, Star, ChevronRight } from 'lucide-react';
-import { useDatabase } from '../../hooks/useDatabase';
+import { useDatabase } from '../../contexts/DatabaseContext';
 
 const Afisha = () => {
     const { movies, loading } = useDatabase();

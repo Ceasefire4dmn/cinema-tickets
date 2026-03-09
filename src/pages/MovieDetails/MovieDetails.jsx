@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { useDatabase } from '../../hooks/useDatabase';
+import { useDatabase } from '../../contexts/DatabaseContext';
 import { Clock, MapPin, Ticket } from 'lucide-react';
 
 const MovieDetails = () => {
