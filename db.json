@@ -1,0 +1,1433 @@
+{
+  "movies": [
+    { "id": 1, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 2, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 3, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 4, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 5, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 6, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 7, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
+    { "id": 8, "title": "Оппенгеймер", "genre": "Драма", "duration": 180, "rating": 8.6, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuASSwzLKKIc8BJnPh3Ljq9EOc59wb-773A2DBcLfckBEYLVjV4ARXPDYh7ZspZyOpCmZ9d9aPPkt9irGBXnDp111PCOcSPpfAJJ4WEo1Qss_gqLuPe86TfEaI4QgGrjuCKa2LhJ082DewA8JEQhPXfqS8Gy0nBng1oAP03R3XyvtEdiGZU9jBUdEa6SZ67aL6VbAk3PoXx8DzzJV2r8GpUA7ljFKJdqDAce8c27-_eZ-bYiIYHzwZrJMbnyz4gJ4g0xX5W-K6qSgiRJ", "synopsis": "История создания атомной бомбы..." }
+  ],
+  "halls": [
+    { "id": 1, "name": "Зал 1", "type": "IMAX", "capacity": 120 },
+    { "id": 2, "name": "Зал 2", "type": "Standard", "capacity": 80 }
+  ],
+  "seats": [
+  {
+    "id": 1,
+    "hall_id": 1,
+    "row": 1,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 2,
+    "hall_id": 1,
+    "row": 1,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 3,
+    "hall_id": 1,
+    "row": 1,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 4,
+    "hall_id": 1,
+    "row": 1,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 5,
+    "hall_id": 1,
+    "row": 1,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 6,
+    "hall_id": 1,
+    "row": 1,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 7,
+    "hall_id": 1,
+    "row": 1,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 8,
+    "hall_id": 1,
+    "row": 1,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 9,
+    "hall_id": 1,
+    "row": 1,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 10,
+    "hall_id": 1,
+    "row": 1,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 11,
+    "hall_id": 1,
+    "row": 2,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 12,
+    "hall_id": 1,
+    "row": 2,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 13,
+    "hall_id": 1,
+    "row": 2,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 14,
+    "hall_id": 1,
+    "row": 2,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 15,
+    "hall_id": 1,
+    "row": 2,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 16,
+    "hall_id": 1,
+    "row": 2,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 17,
+    "hall_id": 1,
+    "row": 2,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 18,
+    "hall_id": 1,
+    "row": 2,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 19,
+    "hall_id": 1,
+    "row": 2,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 20,
+    "hall_id": 1,
+    "row": 2,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 21,
+    "hall_id": 1,
+    "row": 2,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 22,
+    "hall_id": 1,
+    "row": 2,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 23,
+    "hall_id": 1,
+    "row": 3,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 24,
+    "hall_id": 1,
+    "row": 3,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 25,
+    "hall_id": 1,
+    "row": 3,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 26,
+    "hall_id": 1,
+    "row": 3,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 27,
+    "hall_id": 1,
+    "row": 3,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 28,
+    "hall_id": 1,
+    "row": 3,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 29,
+    "hall_id": 1,
+    "row": 3,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 30,
+    "hall_id": 1,
+    "row": 3,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 31,
+    "hall_id": 1,
+    "row": 3,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 32,
+    "hall_id": 1,
+    "row": 3,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 33,
+    "hall_id": 1,
+    "row": 3,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 34,
+    "hall_id": 1,
+    "row": 3,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 35,
+    "hall_id": 1,
+    "row": 4,
+    "number": 1,
+    "category": "VIP"
+  },
+  {
+    "id": 36,
+    "hall_id": 1,
+    "row": 4,
+    "number": 2,
+    "category": "VIP"
+  },
+  {
+    "id": 37,
+    "hall_id": 1,
+    "row": 4,
+    "number": 3,
+    "category": "VIP"
+  },
+  {
+    "id": 38,
+    "hall_id": 1,
+    "row": 4,
+    "number": 4,
+    "category": "VIP"
+  },
+  {
+    "id": 39,
+    "hall_id": 1,
+    "row": 4,
+    "number": 5,
+    "category": "VIP"
+  },
+  {
+    "id": 40,
+    "hall_id": 1,
+    "row": 4,
+    "number": 6,
+    "category": "VIP"
+  },
+  {
+    "id": 41,
+    "hall_id": 1,
+    "row": 4,
+    "number": 7,
+    "category": "VIP"
+  },
+  {
+    "id": 42,
+    "hall_id": 1,
+    "row": 4,
+    "number": 8,
+    "category": "VIP"
+  },
+  {
+    "id": 43,
+    "hall_id": 1,
+    "row": 4,
+    "number": 9,
+    "category": "VIP"
+  },
+  {
+    "id": 44,
+    "hall_id": 1,
+    "row": 4,
+    "number": 10,
+    "category": "VIP"
+  },
+  {
+    "id": 45,
+    "hall_id": 1,
+    "row": 4,
+    "number": 11,
+    "category": "VIP"
+  },
+  {
+    "id": 46,
+    "hall_id": 1,
+    "row": 4,
+    "number": 12,
+    "category": "VIP"
+  },
+  {
+    "id": 47,
+    "hall_id": 1,
+    "row": 5,
+    "number": 1,
+    "category": "Love Seat"
+  },
+  {
+    "id": 48,
+    "hall_id": 1,
+    "row": 5,
+    "number": 2,
+    "category": "Love Seat"
+  },
+  {
+    "id": 49,
+    "hall_id": 1,
+    "row": 5,
+    "number": 3,
+    "category": "Love Seat"
+  },
+  {
+    "id": 50,
+    "hall_id": 1,
+    "row": 5,
+    "number": 4,
+    "category": "Love Seat"
+  },
+  {
+    "id": 51,
+    "hall_id": 1,
+    "row": 5,
+    "number": 5,
+    "category": "Love Seat"
+  },
+  {
+    "id": 52,
+    "hall_id": 1,
+    "row": 5,
+    "number": 6,
+    "category": "Love Seat"
+  },
+  {
+    "id": 53,
+    "hall_id": 1,
+    "row": 5,
+    "number": 7,
+    "category": "Love Seat"
+  },
+  {
+    "id": 54,
+    "hall_id": 1,
+    "row": 5,
+    "number": 8,
+    "category": "Love Seat"
+  },
+  {
+    "id": 55,
+    "hall_id": 1,
+    "row": 5,
+    "number": 9,
+    "category": "Love Seat"
+  },
+  {
+    "id": 56,
+    "hall_id": 1,
+    "row": 5,
+    "number": 10,
+    "category": "Love Seat"
+  },
+  {
+    "id": 57,
+    "hall_id": 1,
+    "row": 5,
+    "number": 11,
+    "category": "Love Seat"
+  },
+  {
+    "id": 58,
+    "hall_id": 1,
+    "row": 5,
+    "number": 12,
+    "category": "Love Seat"
+  },
+  {
+    "id": 59,
+    "hall_id": 1,
+    "row": 6,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 60,
+    "hall_id": 1,
+    "row": 6,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 61,
+    "hall_id": 1,
+    "row": 6,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 62,
+    "hall_id": 1,
+    "row": 6,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 63,
+    "hall_id": 1,
+    "row": 6,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 64,
+    "hall_id": 1,
+    "row": 6,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 65,
+    "hall_id": 1,
+    "row": 6,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 66,
+    "hall_id": 1,
+    "row": 6,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 67,
+    "hall_id": 1,
+    "row": 6,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 68,
+    "hall_id": 1,
+    "row": 6,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 69,
+    "hall_id": 1,
+    "row": 6,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 70,
+    "hall_id": 1,
+    "row": 6,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 71,
+    "hall_id": 1,
+    "row": 7,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 72,
+    "hall_id": 1,
+    "row": 7,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 73,
+    "hall_id": 1,
+    "row": 7,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 74,
+    "hall_id": 1,
+    "row": 7,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 75,
+    "hall_id": 1,
+    "row": 7,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 76,
+    "hall_id": 1,
+    "row": 7,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 77,
+    "hall_id": 1,
+    "row": 7,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 78,
+    "hall_id": 1,
+    "row": 7,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 79,
+    "hall_id": 1,
+    "row": 7,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 80,
+    "hall_id": 1,
+    "row": 7,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 81,
+    "hall_id": 1,
+    "row": 7,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 82,
+    "hall_id": 1,
+    "row": 7,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 83,
+    "hall_id": 1,
+    "row": 8,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 84,
+    "hall_id": 1,
+    "row": 8,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 85,
+    "hall_id": 1,
+    "row": 8,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 86,
+    "hall_id": 1,
+    "row": 8,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 87,
+    "hall_id": 1,
+    "row": 8,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 88,
+    "hall_id": 1,
+    "row": 8,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 89,
+    "hall_id": 1,
+    "row": 8,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 90,
+    "hall_id": 1,
+    "row": 8,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 91,
+    "hall_id": 1,
+    "row": 8,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 92,
+    "hall_id": 1,
+    "row": 8,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 93,
+    "hall_id": 1,
+    "row": 8,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 94,
+    "hall_id": 1,
+    "row": 8,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 95,
+    "hall_id": 1,
+    "row": 9,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 96,
+    "hall_id": 1,
+    "row": 9,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 97,
+    "hall_id": 1,
+    "row": 9,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 98,
+    "hall_id": 1,
+    "row": 9,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 99,
+    "hall_id": 1,
+    "row": 9,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 100,
+    "hall_id": 1,
+    "row": 9,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 101,
+    "hall_id": 1,
+    "row": 9,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 102,
+    "hall_id": 1,
+    "row": 9,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 103,
+    "hall_id": 1,
+    "row": 9,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 104,
+    "hall_id": 1,
+    "row": 9,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 105,
+    "hall_id": 1,
+    "row": 9,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 106,
+    "hall_id": 1,
+    "row": 9,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 107,
+    "hall_id": 1,
+    "row": 10,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 108,
+    "hall_id": 1,
+    "row": 10,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 109,
+    "hall_id": 1,
+    "row": 10,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 110,
+    "hall_id": 1,
+    "row": 10,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 111,
+    "hall_id": 1,
+    "row": 10,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 112,
+    "hall_id": 1,
+    "row": 10,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 113,
+    "hall_id": 1,
+    "row": 10,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 114,
+    "hall_id": 1,
+    "row": 10,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 115,
+    "hall_id": 1,
+    "row": 10,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 116,
+    "hall_id": 1,
+    "row": 10,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 117,
+    "hall_id": 1,
+    "row": 10,
+    "number": 11,
+    "category": "Standard"
+  },
+  {
+    "id": 118,
+    "hall_id": 1,
+    "row": 10,
+    "number": 12,
+    "category": "Standard"
+  },
+  {
+    "id": 119,
+    "hall_id": 1,
+    "row": 11,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 120,
+    "hall_id": 1,
+    "row": 11,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 121,
+    "hall_id": 2,
+    "row": 1,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 122,
+    "hall_id": 2,
+    "row": 1,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 123,
+    "hall_id": 2,
+    "row": 1,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 124,
+    "hall_id": 2,
+    "row": 1,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 125,
+    "hall_id": 2,
+    "row": 1,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 126,
+    "hall_id": 2,
+    "row": 1,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 127,
+    "hall_id": 2,
+    "row": 1,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 128,
+    "hall_id": 2,
+    "row": 1,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 129,
+    "hall_id": 2,
+    "row": 1,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 130,
+    "hall_id": 2,
+    "row": 1,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 131,
+    "hall_id": 2,
+    "row": 2,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 132,
+    "hall_id": 2,
+    "row": 2,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 133,
+    "hall_id": 2,
+    "row": 2,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 134,
+    "hall_id": 2,
+    "row": 2,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 135,
+    "hall_id": 2,
+    "row": 2,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 136,
+    "hall_id": 2,
+    "row": 2,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 137,
+    "hall_id": 2,
+    "row": 2,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 138,
+    "hall_id": 2,
+    "row": 2,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 139,
+    "hall_id": 2,
+    "row": 2,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 140,
+    "hall_id": 2,
+    "row": 2,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 141,
+    "hall_id": 2,
+    "row": 3,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 142,
+    "hall_id": 2,
+    "row": 3,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 143,
+    "hall_id": 2,
+    "row": 3,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 144,
+    "hall_id": 2,
+    "row": 3,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 145,
+    "hall_id": 2,
+    "row": 3,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 146,
+    "hall_id": 2,
+    "row": 3,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 147,
+    "hall_id": 2,
+    "row": 3,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 148,
+    "hall_id": 2,
+    "row": 3,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 149,
+    "hall_id": 2,
+    "row": 3,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 150,
+    "hall_id": 2,
+    "row": 3,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 151,
+    "hall_id": 2,
+    "row": 4,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 152,
+    "hall_id": 2,
+    "row": 4,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 153,
+    "hall_id": 2,
+    "row": 4,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 154,
+    "hall_id": 2,
+    "row": 4,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 155,
+    "hall_id": 2,
+    "row": 4,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 156,
+    "hall_id": 2,
+    "row": 4,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 157,
+    "hall_id": 2,
+    "row": 4,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 158,
+    "hall_id": 2,
+    "row": 4,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 159,
+    "hall_id": 2,
+    "row": 4,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 160,
+    "hall_id": 2,
+    "row": 4,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 161,
+    "hall_id": 2,
+    "row": 5,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 162,
+    "hall_id": 2,
+    "row": 5,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 163,
+    "hall_id": 2,
+    "row": 5,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 164,
+    "hall_id": 2,
+    "row": 5,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 165,
+    "hall_id": 2,
+    "row": 5,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 166,
+    "hall_id": 2,
+    "row": 5,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 167,
+    "hall_id": 2,
+    "row": 5,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 168,
+    "hall_id": 2,
+    "row": 5,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 169,
+    "hall_id": 2,
+    "row": 5,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 170,
+    "hall_id": 2,
+    "row": 5,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 171,
+    "hall_id": 2,
+    "row": 6,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 172,
+    "hall_id": 2,
+    "row": 6,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 173,
+    "hall_id": 2,
+    "row": 6,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 174,
+    "hall_id": 2,
+    "row": 6,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 175,
+    "hall_id": 2,
+    "row": 6,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 176,
+    "hall_id": 2,
+    "row": 6,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 177,
+    "hall_id": 2,
+    "row": 6,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 178,
+    "hall_id": 2,
+    "row": 6,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 179,
+    "hall_id": 2,
+    "row": 6,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 180,
+    "hall_id": 2,
+    "row": 6,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 181,
+    "hall_id": 2,
+    "row": 7,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 182,
+    "hall_id": 2,
+    "row": 7,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 183,
+    "hall_id": 2,
+    "row": 7,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 184,
+    "hall_id": 2,
+    "row": 7,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 185,
+    "hall_id": 2,
+    "row": 7,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 186,
+    "hall_id": 2,
+    "row": 7,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 187,
+    "hall_id": 2,
+    "row": 7,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 188,
+    "hall_id": 2,
+    "row": 7,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 189,
+    "hall_id": 2,
+    "row": 7,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 190,
+    "hall_id": 2,
+    "row": 7,
+    "number": 10,
+    "category": "Standard"
+  },
+  {
+    "id": 191,
+    "hall_id": 2,
+    "row": 8,
+    "number": 1,
+    "category": "Standard"
+  },
+  {
+    "id": 192,
+    "hall_id": 2,
+    "row": 8,
+    "number": 2,
+    "category": "Standard"
+  },
+  {
+    "id": 193,
+    "hall_id": 2,
+    "row": 8,
+    "number": 3,
+    "category": "Standard"
+  },
+  {
+    "id": 194,
+    "hall_id": 2,
+    "row": 8,
+    "number": 4,
+    "category": "Standard"
+  },
+  {
+    "id": 195,
+    "hall_id": 2,
+    "row": 8,
+    "number": 5,
+    "category": "Standard"
+  },
+  {
+    "id": 196,
+    "hall_id": 2,
+    "row": 8,
+    "number": 6,
+    "category": "Standard"
+  },
+  {
+    "id": 197,
+    "hall_id": 2,
+    "row": 8,
+    "number": 7,
+    "category": "Standard"
+  },
+  {
+    "id": 198,
+    "hall_id": 2,
+    "row": 8,
+    "number": 8,
+    "category": "Standard"
+  },
+  {
+    "id": 199,
+    "hall_id": 2,
+    "row": 8,
+    "number": 9,
+    "category": "Standard"
+  },
+  {
+    "id": 200,
+    "hall_id": 2,
+    "row": 8,
+    "number": 10,
+    "category": "Standard"
+  }
+],
+"showtimes": [
+    { "id": 101, "movie_id": 1, "hall_id": 1, "start_time": "2026-03-10T14:00:00", "base_price": 500 },
+    { "id": 102, "movie_id": 1, "hall_id": 1, "start_time": "2026-03-10T17:30:00", "base_price": 600 },
+    { "id": 103, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T18:00:00", "base_price": 400 },
+    { "id": 104, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T21:00:00", "base_price": 450 },
+    { "id": 105, "movie_id": 3, "hall_id": 3, "start_time": "2026-03-11T12:00:00", "base_price": 350 },
+    { "id": 106, "movie_id": 4, "hall_id": 2, "start_time": "2026-03-11T15:00:00", "base_price": 400 },
+    { "id": 107, "movie_id": 5, "hall_id": 1, "start_time": "2026-03-11T19:00:00", "base_price": 550 },
+    { "id": 108, "movie_id": 6, "hall_id": 3, "start_time": "2026-03-12T10:30:00", "base_price": 300 },
+    { "id": 109, "movie_id": 7, "hall_id": 1, "start_time": "2026-03-12T22:00:00", "base_price": 500 },
+    { "id": 110, "movie_id": 8, "hall_id": 2, "start_time": "2026-03-12T13:45:00", "base_price": 400 }
+  ],
+  "bookings": [
+    { "id": 1001, "showtime_id": 101, "seat_id": 1, "status": "sold" }
+  ]
+}
