@@ -1,24 +1,24 @@
 import React, { useState, useEffect } from 'react';
 import { DatabaseContext } from './DatabaseContext';
 
-export const DatabaseProvider = ({ children }) => { 
+export const DatabaseProvider = ({ children }) => {
     const [data, setData] = useState({
         movies: [],
         halls: [],
-        seats: [], 
+        seats: [],
         showtimes: []
     });
     const [bookings, setBookings] = useState([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('/db.json')
+        fetch('db.json')
             .then(res => res.json())
-            .then(json => { 
+            .then(json => {
                 setData({
                     movies: json.movies || [],
                     halls: json.halls || [],
-                    seats: json.seats || [], 
+                    seats: json.seats || [],
                     showtimes: json.showtimes || []
                 });
 
@@ -31,12 +31,12 @@ export const DatabaseProvider = ({ children }) => {
                 setLoading(false);
             });
     }, []);
- 
+
     const addBooking = (showtimeId, seatId) => {
         const newBooking = {
             id: Date.now(),
-            showtime_id: parseInt(showtimeId), 
-            seat_id: parseInt(seatId),          
+            showtime_id: parseInt(showtimeId),
+            seat_id: parseInt(seatId),
             status: 'sold'
         };
 
@@ -51,7 +51,7 @@ export const DatabaseProvider = ({ children }) => {
         setBookings([]);
         localStorage.removeItem('cinema_bookings');
     };
- 
+
     const value = { ...data, bookings, addBooking, resetDatabase, loading };
 
     return (

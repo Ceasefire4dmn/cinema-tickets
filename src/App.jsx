@@ -19,9 +19,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Afisha />} />
-            <Route path='afisha' element={<Afisha />} />
+            <Route path='/afisha' element={<Afisha />} />
             <Route path="/movie/:id" element={<MovieDetails />} />
-            <Route path='hall' element={<HallDetails />} />
+            <Route path='/hall' element={<HallDetails />} />
             <Route path="/hall-info/:hallId" element={<HallView />} />
             <Route path="/hall-selection/:showtimeId" element={<HallSelection />} />
             <Route path="/checkout/:showtimeId" element={<Checkout />} /> 
