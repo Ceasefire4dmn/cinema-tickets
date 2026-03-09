@@ -1,21 +1,21 @@
 
 import { motion } from 'framer-motion';
-import { Film, Users, CreditCard, Ticket, Settings } from 'lucide-react';
+import { Film, Users, CreditCard, Ticket } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 // eslint-disable-next-line no-unused-vars
-const MotionComponent = motion.aside;  
+const MotionComponent = motion.aside;
 
 const navItems = [
     { path: '/', icon: Film, label: 'Афиша' },
     { path: '/hall', icon: Users, label: 'Зал' },
     { path: '/payment', icon: CreditCard, label: 'Оплата' },
     { path: '/ticket', icon: Ticket, label: 'Билет' },
-    { path: '/admin', icon: Settings, label: 'Админка' },
 ];
 
 export default function Nav() {
     return (
-        <MotionComponent 
+        <MotionComponent
             initial={{ x: -250 }}
             animate={{ x: 0 }}
             transition={{ duration: 0.5 }}
@@ -24,10 +24,10 @@ export default function Nav() {
             <h1 className="text-2xl font-bold text-accent">Кинотеатр</h1>
             <nav className="flex flex-col gap-2">
                 {navItems.map(({ path, icon: Icon, label }) => (
-                    <a key={path} href={path} className="flex items-center gap-3 p-3 rounded-lg hover:bg-card/50 transition-all">
+                    <Link key={path} to={path} className="flex items-center gap-3 p-3 rounded-lg hover:bg-card/50 transition-all">
                         <Icon size={20} />
                         {label}
-                    </a>
+                    </Link>
                 ))}
             </nav>
         </MotionComponent>
