@@ -1420,10 +1420,10 @@
     { "id": 102, "movie_id": 1, "hall_id": 1, "start_time": "2026-03-10T17:30:00", "base_price": 600 },
     { "id": 103, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T18:00:00", "base_price": 400 },
     { "id": 104, "movie_id": 2, "hall_id": 2, "start_time": "2026-03-10T21:00:00", "base_price": 450 },
-    { "id": 105, "movie_id": 3, "hall_id": 3, "start_time": "2026-03-11T12:00:00", "base_price": 350 },
+    { "id": 105, "movie_id": 3, "hall_id": 2, "start_time": "2026-03-11T12:00:00", "base_price": 350 },
     { "id": 106, "movie_id": 4, "hall_id": 2, "start_time": "2026-03-11T15:00:00", "base_price": 400 },
     { "id": 107, "movie_id": 5, "hall_id": 1, "start_time": "2026-03-11T19:00:00", "base_price": 550 },
-    { "id": 108, "movie_id": 6, "hall_id": 3, "start_time": "2026-03-12T10:30:00", "base_price": 300 },
+    { "id": 108, "movie_id": 6, "hall_id": 1, "start_time": "2026-03-12T10:30:00", "base_price": 300 },
     { "id": 109, "movie_id": 7, "hall_id": 1, "start_time": "2026-03-12T22:00:00", "base_price": 500 },
     { "id": 110, "movie_id": 8, "hall_id": 2, "start_time": "2026-03-12T13:45:00", "base_price": 400 }
   ],
