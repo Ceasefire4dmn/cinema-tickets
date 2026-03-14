@@ -9,7 +9,7 @@ const MotionComponent = motion.aside;
 const navItems = [
     { path: '/', icon: Film, label: 'Афиша' },
     { path: '/hall', icon: Users, label: 'Зал' },
-    { path: '/payment', icon: CreditCard, label: 'Оплата' },
+    { path: '/transactions', icon: CreditCard, label: 'Оплата' },
     { path: '/ticket', icon: Ticket, label: 'Билет' },
 ];
 
