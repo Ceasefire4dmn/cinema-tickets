@@ -1,13 +1,78 @@
 {
   "movies": [
     { "id": 1, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 2, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 3, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 4, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 5, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 6, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 7, "title": "Дюна 2", "genre": "Фантастика", "duration": 166, "rating": 8.8, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr", "synopsis": "Продолжение истории Пола Атрейдеса..." },
-    { "id": 8, "title": "Оппенгеймер", "genre": "Драма", "duration": 180, "rating": 8.6, "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuASSwzLKKIc8BJnPh3Ljq9EOc59wb-773A2DBcLfckBEYLVjV4ARXPDYh7ZspZyOpCmZ9d9aPPkt9irGBXnDp111PCOcSPpfAJJ4WEo1Qss_gqLuPe86TfEaI4QgGrjuCKa2LhJ082DewA8JEQhPXfqS8Gy0nBng1oAP03R3XyvtEdiGZU9jBUdEa6SZ67aL6VbAk3PoXx8DzzJV2r8GpUA7ljFKJdqDAce8c27-_eZ-bYiIYHzwZrJMbnyz4gJ4g0xX5W-K6qSgiRJ", "synopsis": "История создания атомной бомбы..." }
+    {
+    "id": 2,
+    "title": "Атомная теория",
+    "genre": "Драма",
+    "duration": 180,
+    "rating": 8.9,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuASSwzLKKIc8BJnPh3Ljq9EOc59wb-773A2DBcLfckBEYLVjV4ARXPDYh7ZspZyOpCmZ9d9aPPkt9irGBXnDp111PCOcSPpfAJJ4WEo1Qss_gqLuPe86TfEaI4QgGrjuCKa2LhJ082DewA8JEQhPXfqS8Gy0nBng1oAP03R3XyvtEdiGZU9jBUdEa6SZ67aL6VbAk3PoXx8DzzJV2r8GpUA7ljFKJdqDAce8c27-_eZ-bYiIYHzwZrJMbnyz4gJ4g0xX5W-K6qSgiRJ",
+    "synopsis": "Глубокая историческая драма о создании технологий, изменивших мир навсегда."
+  },
+  {
+    "id": 3,
+    "title": "Тихий путь",
+    "genre": "Фантастика",
+    "duration": 135,
+    "rating": 7.5,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsIEqvoUOGTDGqYyzcBnt3CZUUpgdPuDRk8FYdf-sfqopbRprzt24nfbAIvcEMX9RGTAeZFJ5a7o-mYs7rqKfiezmmDZETH7MDQpAMw4oVRC1CGaiEw94mVzYO_h6T1clMpe-fPpz7gSLoRGM9UW3ykW7Lzf7fBE_jACbr4B-95mUs0iqGOYTnP_4usFOH9MP2_t8o0aRNOTnXM2mLTo1JaPOxqtfFEz5refvV8wf6KpJgrtMR_EzxnQiNCUx73CEFH14eGP4_Qym3",
+    "synopsis": "Путешествие исследователя через неизведанные пространства в поисках истины."
+  },
+  {
+    "id": 4,
+    "title": "Город ночи",
+    "genre": "Криминал",
+    "duration": 152,
+    "rating": 9.0,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCyNGPiv93f3aoChdeqqjthr89DaWp5ZOhKyvFBhkd4V2TIvMiPFUHVmQwKOdeedMFudBEPlTOiOajuZF77PZP6z9ATWBDjNdkON0p8t7MwKKDiNl4vFxzVZ7tKEM3CiQdKSwutHsIbgkcmg2cvCU3h3l7b6DTis1LPHtz7vo0ShCfMyiS3kUY-LSw5Ps5H73gtU0Nm8k1Fi9IHXrJ4zgSecBkEIqetTEknQcAW0OzOJy3o1wVAnc8GeM5lFG3bhZnyNHbbn_Q0vqVY",
+    "synopsis": "Мрачная история о правосудии и преступности в самом сердце мегаполиса."
+  },
+  {
+    "id": 5,
+    "title": "Неоновые мечты",
+    "genre": "Мультфильм",
+    "duration": 108,
+    "rating": 8.2,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD2QFuRwO1utNqu1_2BansSfEMBlWiLXkILBu9JhWwsw6KZGcNCwo6_IptQtumw-QtympLlaafbUMgQ6KAues0z7Kapgmg_JV0u1aVnCDzHJa5D4n-XKdjeepBvupMnoJCpBZAymp3wmWLHV1y5-EPAE_IzlSRT7gLZKeN-e_po0pmuUJl74Xqn_d0FSUZSxuMDpOUdN-EIWVCyZqXabnYAciaoXT5HF4YbsWwmQW008NHCsZrXa5nnBXuGJxuT_mSREt5JgY30gqrE",
+    "synopsis": "Яркое анимационное приключение в мире будущего, наполненном красками и технологиями."
+  },
+  {
+    "id": 6,
+    "title": "Эхо прошлого",
+    "genre": "Ужасы",
+    "duration": 116,
+    "rating": 6.8,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC3Gpz0vt83-3AcCWwVZXunyZHutnudB9PvWf9mrnvZQm03ToyIMnfgavHhq18ZlT0FWAQInylNk_hYQHoLXUmAQetIejG69nqod_dK0mncOxykxQc2on7As51wAqco8Y21GWnPuxSCgTWeY85_eBi1dGmIHHUsdYEkUvvNQ70NpdCciFupylgve6KpuWfOcmOLWjP_1tU4v2QqYIq70KbvHcisK_YrR_wcHnnt6DsaAoCp5pbGFmzWqWndRw4w7_yLJBOJ532Q0I4u",
+    "synopsis": "Атмосферный хоррор о тайнах, которые годами скрывались в тени забытых воспоминаний."
+  },
+  {
+    "id": 7,
+    "title": "Межгалактическое путешествие",
+    "genre": "Фантастика",
+    "duration": 120,
+    "rating": 0.0,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDTSeknSF7yJDd20PQm1OjDwcaltmJu3PaRy8NyMNip74sRYmK_Qbp_eJpB4fbSpORegJIu-vjVGXxJkDSZgwRiFh5nTU18Nhar0NP0kbCDfnadiL3Es4AyRXWWmQ4QtK3-Xi-r7_XyIAAkCL4vdjT32pSMKLZ3NOF0a0xnBIWSVNJESYgqOOGmB4NLVkvbfESxo5xO1IJ4GoGkPL7ogHxnGrQlgiPHqvPoDZ1TW4RBPpSGSl6YSbHPzcUyCSMCF6fZUO43sde6qnbG",
+    "synopsis": "Предстоящий блокбастер о путешествии за пределы известных звезд. Премьера 24 октября."
+  },
+  {
+    "id": 8,
+    "title": "Винтажная душа",
+    "genre": "Биография",
+    "duration": 110,
+    "rating": 0.0,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBGulr4x9-y93O3BmPARm8VIQeTwpdWBdzQVY-F1BL_mvArqHSf0gc4PNvdewVV_6tDS_b753wHgsthFFK2Uzan4mo0NXOuDVHvb5aG2FfcfTUR6MjeufJtWKEm0o6qAZe1a30NBtL1Xg6KvGpoyJZq3KVM8dgUrFg0AJnzERFZnwjl5SEkjLgAbSwX8jSJtsjOadsq7wxAuXGJGV-3OJ-h8_KMA5Uk4syqR5S2KwOU1hqQcanmrWi-jh4GizEplO0znuupeB3fMD8m",
+    "synopsis": "История о корнях величайшего музыканта мира, снятая в классическом стиле. Премьера 12 ноября."
+  },
+  {
+    "id": 9,
+    "title": "Замерзший пик",
+    "genre": "Приключения",
+    "duration": 130,
+    "rating": 0.0,
+    "poster_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCqB-PPwDD39IkWNvxuUOFH0FjQQcv5MypVtJRdVb8arAVuHgiczUl07hAq-H4RsZc1L4UFsoJBQGzIoz6O0oAwCPH9dV4xm5vcnz-jkuqbYZngIz_AcTPyRqStXmgy7yCWFlPYzBU_Np9TqBZtilQNO8u7C_3g4DAtQV51tSIeAToDG190H7Jo_3HXa7xvpTf9cj7q1WWyB2jcI0U8sKJRv2ds7t-6ngg_OiH_CKcZfbDk2wQ-jkZbQwntoR3TSUVmkzHnA443NChL",
+    "synopsis": "Выживание — единственное правило на вершинах Эвереста. Премьера 5 декабря."
+  }
   ],
   "halls": [
     { "id": 1, "name": "Зал 1", "type": "IMAX", "capacity": 120 },
