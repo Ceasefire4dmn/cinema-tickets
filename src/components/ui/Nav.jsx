@@ -10,7 +10,7 @@ const navItems = [
     { path: '/', icon: Film, label: 'Афиша' },
     { path: '/hall', icon: Users, label: 'Зал' },
     { path: '/transactions', icon: CreditCard, label: 'Оплата' },
-    { path: '/ticket', icon: Ticket, label: 'Билет' },
+    { path: '/tickets', icon: Ticket, label: 'Билеты' },
 ];
 
 export default function Nav() {

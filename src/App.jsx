@@ -8,6 +8,7 @@ import HallView from './pages/HallView/HallView.jsx';
 import HallSelection from './pages/HallSelection/HallSelection.jsx';
 import Checkout from './pages/Checkout/Checkout.jsx';
 import Transactions from './pages/Transactions/Transactions.jsx';
+import Tickets from './pages/Tickets/Tickets.jsx';
 
 function EmptyPage() {
   return <div className="glass p-8 rounded-xl">Страница в разработке. БД готова для демо (изменения в памяти).</div>;
@@ -27,6 +28,7 @@ function App() {
             <Route path="/hall-selection/:showtimeId" element={<HallSelection />} />
             <Route path="/checkout/:showtimeId" element={<Checkout />} />
             <Route path="/transactions" element={<Transactions />} />
+            <Route path="/tickets" element={<Tickets />} />
           </Route>
         </Routes>
       </DatabaseProvider>

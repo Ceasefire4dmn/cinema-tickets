@@ -7,9 +7,9 @@ const Footer = () => {
                     <p className="text-gray-600 text-sm">© 2026 Прототип системы бронирования. Все права защищены.</p>
                 </div>
                 <div className="flex gap-10 text-gray-400 font-medium">
-                    <a href="#" className="hover:text-red-600 transition-colors">Главная</a>
-                    <a href="afisha" className="hover:text-red-600 transition-colors">Афиша</a>
-                    <a href="#" className="hover:text-red-600 transition-colors">Поддержка</a>
+                    <a href="/cinema-tickets/" className="hover:text-red-600 transition-colors">Афиша</a>
+                    <a href="/cinema-tickets/#/hall" className="hover:text-red-600 transition-colors">Залы</a>
+                    <a href="/cinema-tickets/#/tickets" className="hover:text-red-600 transition-colors">Билеты</a>
                 </div>
             </div>
         </footer >
