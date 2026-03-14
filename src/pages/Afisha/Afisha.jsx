@@ -17,36 +17,39 @@ const Afisha = () => {
         );
     }
 
-    const featuredMovie = movies || {
-        title: "Nebula Ascent",
-        synopsis: "В глубоком космосе, где звёзды рождаются и умирают, начинается эпическое путешествие...",
-        poster: "https://lh3.googleusercontent.com/aida-public/AB6AXuDewpR3yQslylgVP-P2wISHfYpvX72QbLPUI0qHvacOt5VwGRK0tkrKssyaNRSjn02zMPz9wV3BkwbjehcBcuxDITOGQzRw7EWUT5Tr3WU6Sm1Mq4o6yoqVwotqJQ0S_NBRRtA_KiY1Wyb8KyP99qCuFshuFPgGBXGlZGS91RHuGc9BdEsgssBmCJ584sK7qhAI01Z2-6qQ7ugraGuMsoM3scN01_wyQkIovuDQMPF1LkfBTDEQVHF8oQxa04tdESHkd2MwvWx7rvHr"
+    const featuredMovie = movies[2] || {
+        title: "Тихий путь",
+        synopsis: "Путешествие исследователя через неизведанные пространства в поисках истины.",
+        poster_url: "https://lh3.googleusercontent.com/aida-public/AB6AXuCsIEqvoUOGTDGqYyzcBnt3CZUUpgdPuDRk8FYdf-sfqopbRprzt24nfbAIvcEMX9RGTAeZFJ5a7o-mYs7rqKfiezmmDZETH7MDQpAMw4oVRC1CGaiEw94mVzYO_h6T1clMpe-fPpz7gSLoRGM9UW3ykW7Lzf7fBE_jACbr4B-95mUs0iqGOYTnP_4usFOH9MP2_t8o0aRNOTnXM2mLTo1JaPOxqtfFEz5refvV8wf6KpJgrtMR_EzxnQiNCUx73CEFH14eGP4_Qym3"
     };
 
     return (
         <div className="min-h-screen bg-[#0F0F0F] text-white overflow-x-hidden">
+            <div className="bg-[#0F0F0F] m-3">
+                <motion.h1
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="text-7xl md:text-8xl font-black tracking-tighter mb-2 bg-gradient-to-b from-white to-gray-500 bg-clip-text text-transparent"
+                >
+                    CINEMA
+                </motion.h1>
 
+                <div className="flex items-center space-x-3 mb-8">
+                    <div className="w-3 h-3 bg-red-600 rounded-full animate-pulse"></div>
+                    <span className="text-xl text-gray-400 font-medium">{movies.length} фильмов в прокате</span>
+                </div>
+            </div>
             <section className="relative h-[600px] flex items-center px-12 overflow-hidden border-b border-gray-800">
-                <div
+                <img
+                    src={featuredMovie.poster_url}
+                    alt={featuredMovie.title}
                     crossOrigin="anonymous"
-                    className="absolute inset-0 bg-cover bg-center opacity-30 transition-opacity duration-1000"
-                    style={{ backgroundImage: `url(${featuredMovie.poster})`, crossOrigin: 'anonymous' }}
-                ></div>
+                    className="absolute inset-0 h-full w-full object-cover object-center opacity-30 transition-opacity duration-1000"
+                />
                 <div className="absolute inset-0 bg-gradient-to-r from-[#0F0F0F] via-[#0F0F0F]/60 to-transparent"></div>
 
-                <div className="relative z-10 max-w-4xl mx-auto w-full pt-20">
-                    <motion.h1
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        className="text-7xl md:text-8xl font-black tracking-tighter mb-6 bg-gradient-to-b from-white to-gray-500 bg-clip-text text-transparent"
-                    >
-                        CINEMA
-                    </motion.h1>
+                <div className="relative z-10 max-w-4xl mx-auto w-full">
 
-                    <div className="flex items-center space-x-3 mb-8">
-                        <div className="w-3 h-3 bg-red-600 rounded-full animate-pulse"></div>
-                        <span className="text-xl text-gray-400 font-medium">{movies.length} фильмов в прокате</span>
-                    </div>
 
                     <div className="max-w-2xl">
                         <h2 className="text-4xl md:text-5xl font-bold mb-4">{featuredMovie.title}</h2>
@@ -56,13 +59,13 @@ const Afisha = () => {
 
                         <div className="flex flex-wrap gap-4 items-center">
                             <Link
-                                to={`/movie/${featuredMovie.id}`}
+                                to={`/movie/3`}
                                 className="bg-red-600 px-8 py-4 rounded-full font-bold hover:bg-red-700 hover:scale-105 transition-all flex items-center gap-3 shadow-lg shadow-red-600/20"
                             >
                                 <Play className="w-5 h-5 fill-current" />
                                 Купить билет
                             </Link>
-                            <Link to="/showtimes" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors group text-lg">
+                            <Link to="/movie/3" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors group text-lg">
                                 Сеансы <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                             </Link>
                         </div>

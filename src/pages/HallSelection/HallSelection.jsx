@@ -132,14 +132,13 @@ export default function HallSelection() {
                     <div className="flex items-center gap-8">
                         <div className="text-right">
                             <p className="text-gray-500 text-xs uppercase">Цена</p>
-                            <p className="text-3xl font-black text-red-600">${(selectedSeats.length * session.base_price).toFixed(2)}</p>
+                            <p className="text-3xl font-black text-red-600">{(selectedSeats.length * session.base_price).toFixed(2)}₽</p>
                         </div>
                         <button
                             disabled={selectedSeats.length === 0}
                             onClick={() => navigate(`/checkout/${showtimeId}`, {
                                 state: { selectedSeats }
                             })}
-                            // onClick={() => navigate(`/booking-confirm/${showtimeId}`, { state: { selectedSeats } })}
                             className="bg-red-600 px-10 py-4 rounded-xl font-bold hover:bg-red-700 disabled:opacity-20 transition-all"
                         >
                             Оплата

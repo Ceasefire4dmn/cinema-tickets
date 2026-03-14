@@ -61,29 +61,29 @@ export default function Checkout() {
     return (
         <div className="min-h-screen bg-[#0F0F0F] text-white p-6 md:p-12">
             <div className="max-w-6xl mx-auto">
-                <h1 className="text-4xl font-black mb-2">Checkout</h1>
+                <h1 className="text-4xl font-black mb-2">Оплата</h1>
                 <p className="text-gray-500 mb-12 border-l-2 border-red-600 pl-4">
-                    Secure your seat for the ultimate cinematic experience
+                    Успейте занять лучшие места
                 </p>
 
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
                     <div className="lg:col-span-7 space-y-8">
                         <section>
                             <h3 className="text-lg font-bold mb-6 flex items-center gap-2">
-                                <span className="w-1 h-5 bg-red-600 rounded-full"></span> Payment Details
+                                <span className="w-1 h-5 bg-red-600 rounded-full"></span> Данные для оплаты
                             </h3>
                             <div className="bg-[#151515] border border-white/5 rounded-3xl p-8 space-y-6">
                                 <div>
-                                    <label className="text-xs font-bold text-gray-500 uppercase mb-2 block">Email Address</label>
+                                    <label className="text-xs font-bold text-gray-500 uppercase mb-2 block">Email</label>
                                     <input type="email" placeholder="your@email.com" className="w-full bg-[#1A1A1A] border border-white/5 p-4 rounded-xl focus:outline-none focus:border-red-600/50 transition-all" />
                                 </div>
 
                                 <div>
-                                    <label className="text-xs font-bold text-gray-500 uppercase mb-4 block">Payment Method</label>
+                                    <label className="text-xs font-bold text-gray-500 uppercase mb-4 block">Метод Оплаты</label>
                                     <div className="grid grid-cols-3 gap-4">
                                         <button className="border-2 border-red-600 bg-red-600/5 p-4 rounded-xl flex flex-col items-center gap-2">
                                             <CreditCard className="text-red-600" />
-                                            <span className="text-[10px] font-bold">Card</span>
+                                            <span className="text-[10px] font-bold">Карта</span>
                                         </button>
                                         <button className="border border-white/5 bg-white/5 p-4 rounded-xl flex flex-col items-center gap-2 opacity-40">
                                             <Apple />
@@ -97,12 +97,12 @@ export default function Checkout() {
                                 </div>
 
                                 <div className="bg-amber-500/10 border border-amber-500/20 p-4 rounded-xl flex items-center gap-3 text-amber-500 text-xs font-bold">
-                                    SIMULATION MODE: NO REAL TRANSACTION WILL OCCUR
+                                    Демонстрационный режим: без проведения платежей
                                 </div>
 
                                 <div className="space-y-4">
                                     <div>
-                                        <label className="text-xs font-bold text-gray-500 uppercase mb-2 block">Card Number</label>
+                                        <label className="text-xs font-bold text-gray-500 uppercase mb-2 block">Номер карты</label>
                                         <input type="text" placeholder="0000 0000 0000 0000" className="w-full bg-[#1A1A1A] border border-white/5 p-4 rounded-xl" />
                                     </div>
                                     <div className="grid grid-cols-2 gap-4">
@@ -116,7 +116,7 @@ export default function Checkout() {
 
                     <div className="lg:col-span-5">
                         <h3 className="text-lg font-bold mb-6 flex items-center gap-2">
-                            <span className="w-1 h-5 bg-red-600 rounded-full"></span> Order Summary
+                            <span className="w-1 h-5 bg-red-600 rounded-full"></span> Данные заказа
                         </h3>
                         <div className="bg-[#151515] border border-white/5 rounded-3xl p-8 sticky top-12">
                             <div className="flex gap-6 mb-8 pb-8 border-b border-white/5">
@@ -130,15 +130,15 @@ export default function Checkout() {
 
                             <div className="space-y-4 mb-8">
                                 <div className="flex items-center justify-between text-sm">
-                                    <div className="flex items-center gap-3 text-gray-400"><Calendar size={16} /> Date & Time</div>
-                                    <div className="font-bold text-right">Today | {session?.start_time.split('T')[1].substring(0, 5)}</div>
+                                    <div className="flex items-center gap-3 text-gray-400"><Calendar size={16} /> Дата и время</div>
+                                    <div className="font-bold text-right">Сегодня | {session?.start_time.split('T')[1].substring(0, 5)}</div>
                                 </div>
                                 <div className="flex items-center justify-between text-sm">
-                                    <div className="flex items-center gap-3 text-gray-400"><MapPin size={16} /> Location</div>
-                                    <div className="font-bold">Hall {session?.hall_id}</div>
+                                    <div className="flex items-center gap-3 text-gray-400"><MapPin size={16} /> Зал</div>
+                                    <div className="font-bold">Зал {session?.hall_id}</div>
                                 </div>
                                 <div className="flex items-center justify-between text-sm">
-                                    <div className="flex items-center gap-3 text-gray-400"><Armchair size={16} /> Selected Seats</div>
+                                    <div className="flex items-center gap-3 text-gray-400"><Armchair size={16} /> Места</div>
                                     <div className="font-bold text-red-500">
                                         {selectedSeats.map(s => `${String.fromCharCode(64 + s.row)}${s.number}`).join(', ')}
                                     </div>
@@ -146,15 +146,15 @@ export default function Checkout() {
                             </div>
 
                             <div className="flex justify-between items-end pt-6 border-t border-white/5">
-                                <span className="text-gray-500 font-bold uppercase text-xs">Total Amount</span>
-                                <span className="text-4xl font-black text-red-600">${totalPrice.toFixed(2)}</span>
+                                <span className="text-gray-500 font-bold uppercase text-xs">ИТОГО</span>
+                                <span className="text-4xl font-black text-red-600">{totalPrice.toFixed(2)}₽</span>
                             </div>
 
                             <button
                                 onClick={handlePayment}
                                 className="w-full bg-red-600 hover:bg-red-700 py-5 rounded-2xl font-black text-lg mt-8 flex items-center justify-center gap-3 transition-all shadow-2xl shadow-red-600/20"
                             >
-                                <Ticket /> Get Ticket
+                                <Ticket /> Купить
                             </button>
                         </div>
                     </div>
